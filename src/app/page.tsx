@@ -43,7 +43,7 @@ export default function Home() {
               </h1>
               <p className="text-lg mb-8">
                 This is a template hero description. Replace this text with your
-                company's introduction. This area is perfect for your main
+                company introduction. This area is perfect for your main
                 business pitch or value proposition.
               </p>
               <Link href="/services">

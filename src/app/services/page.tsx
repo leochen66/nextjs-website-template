@@ -9,7 +9,7 @@ export default function ServicesPage() {
     {
       title: "Template Service 1",
       description:
-        "This is a template service description. Explain your service's main features and benefits here. Focus on what makes this service unique and valuable to your customers.",
+        "This is a template service description. Explain your service main features and benefits here. Focus on what makes this service unique and valuable to your customers.",
       image: "/images/service1.jpg",
       features: [
         "Template feature description 1",
@@ -21,7 +21,7 @@ export default function ServicesPage() {
     {
       title: "Template Service 2",
       description:
-        "This is a template service description. Explain your service's main features and benefits here. Focus on what makes this service unique and valuable to your customers.",
+        "This is a template service description. Explain your service main features and benefits here. Focus on what makes this service unique and valuable to your customers.",
       image: "/images/service2.jpg",
       features: [
         "Template feature description 1",
@@ -33,7 +33,7 @@ export default function ServicesPage() {
     {
       title: "Template Service 3",
       description:
-        "This is a template service description. Explain your service's main features and benefits here. Focus on what makes this service unique and valuable to your customers.",
+        "This is a template service description. Explain your service main features and benefits here. Focus on what makes this service unique and valuable to your customers.",
       image: "/images/service3.jpg",
       features: [
         "Template feature description 1",
@@ -52,7 +52,7 @@ export default function ServicesPage() {
           <h1 className="text-4xl font-bold mb-6">Our Services</h1>
           <p className="text-xl max-w-3xl">
             This is a template introduction for your services page. Describe
-            your company's service offerings and what makes them special.
+            your company service offerings and what makes them special.
           </p>
         </div>
       </div>

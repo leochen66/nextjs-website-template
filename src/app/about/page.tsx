@@ -8,13 +8,13 @@ export default function AboutPage() {
     {
       name: "Template Name 1",
       role: "Template Role 1",
-      bio: "This is a template biography. You can describe the team member's experience, achievements, and expertise here. Include relevant qualifications and notable contributions.",
+      bio: "This is a template biography. You can describe the team member experience, achievements, and expertise here. Include relevant qualifications and notable contributions.",
       image: "/images/team1.jpg",
     },
     {
       name: "Template Name 2",
       role: "Template Role 2",
-      bio: "This is a template biography. You can describe the team member's experience, achievements, and expertise here. Include relevant qualifications and notable contributions.",
+      bio: "This is a template biography. You can describe the team member experience, achievements, and expertise here. Include relevant qualifications and notable contributions.",
       image: "/images/team2.jpg",
     },
   ];
@@ -23,22 +23,22 @@ export default function AboutPage() {
     {
       title: "Template Value 1",
       description:
-        "This is a template value description. Describe your company's core values and principles here.",
+        "This is a template value description. Describe your company core values and principles here.",
     },
     {
       title: "Template Value 2",
       description:
-        "This is a template value description. Describe your company's core values and principles here.",
+        "This is a template value description. Describe your company core values and principles here.",
     },
     {
       title: "Template Value 3",
       description:
-        "This is a template value description. Describe your company's core values and principles here.",
+        "This is a template value description. Describe your company core values and principles here.",
     },
     {
       title: "Template Value 4",
       description:
-        "This is a template value description. Describe your company's core values and principles here.",
+        "This is a template value description. Describe your company core values and principles here.",
     },
   ];
 
@@ -61,13 +61,13 @@ export default function AboutPage() {
           <div>
             <h2 className="text-3xl font-bold mb-6 text-gray-800">Our Story</h2>
             <p className="text-gray-600 mb-4">
-              This is a template company history section. Describe your
-              company's founding story, growth journey, and major milestones
-              here. Include relevant details about your company's development
-              and achievements over the years.
+              This is a template company history section. Describe your company
+              founding story, growth journey, and major milestones here. Include
+              relevant details about your company development and achievements
+              over the years.
             </p>
             <p className="text-gray-600">
-              This is a template paragraph about your company's mission and
+              This is a template paragraph about your company mission and
               vision. Describe what makes your company unique and what you
               strive to achieve for your clients and stakeholders.
             </p>
