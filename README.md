@@ -22,3 +22,7 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Image Resources
+
+High-quality images in the template are from [Unsplash](https://unsplash.com/).
